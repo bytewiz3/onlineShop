@@ -7,5 +7,6 @@ A web application built upon Spring and Hibernate framework that allows users to
 
 ### ER Diagram
 ![ERDiagram](ERDiagram.png)
+* Created all the tables on AWS RDS MySQL with Hibernate framework.
 
 ### 
